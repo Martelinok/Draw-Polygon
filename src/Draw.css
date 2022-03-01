@@ -1,0 +1,42 @@
+.Draw_Container{
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  background: url(./BackGround.jpg);
+  background-size: 100% 100%;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  padding: 0;
+}
+.Draw_H1 {
+  font-size: 2.5rem;
+  color: white;
+  margin: 10px;
+}
+
+.Draw_Canvas {
+  background: rgba(255, 255, 255, 0.6);
+  border-radius: 10px;
+}
+
+.Draw_Buttos_Content {
+  width: 400px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.Draw_Buttos {
+  width: 200px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: #890b92;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  color: white;
+  font-size: 1rem;
+  cursor: pointer;
+  margin: 0px 10px;
+  padding: 10px;
+}
