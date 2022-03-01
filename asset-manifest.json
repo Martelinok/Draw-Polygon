@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Draw-Polygon/static/css/main.f61d599a.css",
+    "main.js": "/Draw-Polygon/static/js/main.4a86bae7.js",
+    "static/js/787.cd1c12b8.chunk.js": "/Draw-Polygon/static/js/787.cd1c12b8.chunk.js",
+    "static/media/BackGround.jpg": "/Draw-Polygon/static/media/BackGround.af332f4347257ffe5a2c.jpg",
+    "index.html": "/Draw-Polygon/index.html",
+    "main.f61d599a.css.map": "/Draw-Polygon/static/css/main.f61d599a.css.map",
+    "main.4a86bae7.js.map": "/Draw-Polygon/static/js/main.4a86bae7.js.map",
+    "787.cd1c12b8.chunk.js.map": "/Draw-Polygon/static/js/787.cd1c12b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f61d599a.css",
+    "static/js/main.4a86bae7.js"
+  ]
+}
