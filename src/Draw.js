@@ -32,7 +32,6 @@ function Draw() {
     if (!end) {
       let canvas = canvasRef.current.getContext('2d');
       let newPolygon = [ ...polygon, polygon[0]];
-      console.log('polygon', polygon);
       canvas.beginPath();
       canvas.moveTo(newPolygon[0].x, newPolygon[0].y);
       for (let i = 1; i < newPolygon.length; i++) {
